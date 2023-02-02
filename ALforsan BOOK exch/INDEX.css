@@ -1,0 +1,27 @@
+ul {
+    margin: 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(35, 8, 133);
+    
+}
+li {
+    float: left;
+    
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+
+ 
+
+@keyframes mymove {
+  50% {background: blue bottom right/50px 50px;}
+}
